@@ -1,0 +1,10 @@
+{
+  "name": "منصة أداء لاعبي الجودو",
+  "short_name": "Judo Performance",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#174a3b",
+  "lang": "ar",
+  "dir": "rtl"
+}
